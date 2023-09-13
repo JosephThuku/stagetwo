@@ -1,4 +1,4 @@
-
+link to mu umf diagram: https://lucid.app/lucidchart/b6f9d156-fe09-4554-b0c8-609c89f21598/edit?viewport_loc=-3959%2C-2232%2C3772%2C1614%2C0_0&invitationId=inv_074b5b0e-3151-4fda-a532-ee738f0b69a5 
 # HNG STAGE TWO TASK SOLUTION
 
 ## A Simple REST API for CRUD Operations Built with Django
